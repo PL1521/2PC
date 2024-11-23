@@ -1,6 +1,6 @@
 # 2PC
 
-**More Technical Explanation of a 2PC**:
+**More Technical Explanation of a 2 Phase Commit**:
 
 You have a distributed system of servers (e.g. server1 - server5)
 - Coordinator: In charge of modifying the global state
